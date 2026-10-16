@@ -1,0 +1,9 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#080f1d"/>
+  <rect x="28" y="28" width="456" height="456" rx="92" fill="#101e34" stroke="#3478f6" stroke-width="8"/>
+  <path d="M256 94 390 256 256 418 122 256Z" fill="#3478f6"/>
+  <path d="M256 156 338 256 256 356 174 256Z" fill="#080f1d"/>
+  <path d="M194 268 238 312 320 210" fill="none" stroke="#55e6a5" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="256" y="458" font-family="Arial,sans-serif" font-size="35" font-weight="700" text-anchor="middle" fill="#ffffff">TRADEPULSE</text>
+</svg>
